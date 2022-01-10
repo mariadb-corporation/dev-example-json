@@ -1,5 +1,9 @@
 # MariaDB + JSON
 
+⚠️ **[UNMAINTAINED]** This repository has been moved and is currently maintained [here](https://github.com/mariadb-developers/mariadb-json-samples). ⚠️
+
+<br />
+
 This repository contains sample code for working with [MariaDB](https://mariadb.com) and [JavaScript Object Notation (JSON)](https://www.json.org/json-en.html).
 
 More specifically, this repository provides examples of [MariaDB JSON Function](https://mariadb.com/kb/en/json-functions/) usage.  
